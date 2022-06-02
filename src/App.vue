@@ -1,6 +1,6 @@
 <template>
     <div :style="{ opacity,fontSize }">宋狗天天给人干</div>
-  
+    <div>今天6月2号 在坚持两个月</div>
 </template>
 <script>
 import {cloneDeep} from 'lodash'
